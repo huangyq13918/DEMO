@@ -1,6 +1,9 @@
 <template>
   <div>
-    这是我的电话
+   <span>用户名：</span>
+   <input type="text"><br/>
+   <span>密码：</span>
+   <input type="password">
   </div>
 </template>
 
